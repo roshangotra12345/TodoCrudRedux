@@ -1,11 +1,12 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-i
+import AddTodo from './components/AddTodo/AddTodo'
+
 const Main = () => {
   return (
     <View>
-      <Text>Main file</Text>
-    
+      <Text>Add Todo</Text>
+      <AddTodo/>
     </View>
   )
 }
