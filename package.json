@@ -10,8 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "cuid": "^2.1.8",
     "react": "17.0.2",
     "react-native": "0.68.1",
+    "react-redux": "^8.0.0",
     "redux": "^4.1.2"
   },
   "devDependencies": {
